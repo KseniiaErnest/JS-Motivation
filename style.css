@@ -78,3 +78,13 @@ main {
     width: 70%;
   }
 }
+
+@media all and (max-width: 37em) {
+  #par {
+    font-size: 2rem;
+  }
+
+  #btn {
+    font-size: 1.2rem;
+  }
+}
